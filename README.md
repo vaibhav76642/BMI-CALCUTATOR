@@ -5,23 +5,61 @@
 
 ## My Goal
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
+A simple UI (User Interface) that enables the user to calculate their BMI(Body Mass Index) and show the results corresponding to their BMI.
 
 
 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## What I have learnt from this project
+<h1>Library Used</h1>
+<ul>
+  <li>Material</li>
+  <li>Dart Math</li>
+  <li>FontAwesome</li>
+</ul>
 
-- How to use Flutter themes to create coherent branding. 
-- How to create multi-page apps using Flutter Routes and Navigator.
-- How to extract and refactor Flutter Widgets with a click of the button. 
-- How to pass functions as parameters and fields.
-- How to use the GestureDetector Widget to detect more than just a tap.
-- How to use custom colour palettes by using hex codes.
-- How to customise Flutter Widgets to achieve a specific design style.
-- Understand Dart Enums and the Ternary Operator.
-- Learn about composition vs. inheritance and the Flutter way of creating custom UI.
-- Understand the difference between const and final in Dart and when to use each.
+<h1>Widgets / Classes Used</h1>
+<ul>
+  <li>StatefulWidget</li>
+  <li>Scaffold</li>
+  <li>AppBar</li>
+  <li>Text</li>
+  <li>TextStyle</li>
+  <li>SafeArea</li>
+  <li>Padding</li>
+  <li>Column</li>
+  <li>Row</li>
+  <li>Colors</li>
+  <li>Color</li>
+  <li>Expanded</li>
+  <li>FlatButton</li>
+  <li>Center</li>
+  <li>Icon</li>
+  <li>Alert</li>
+  <li>AlertStyle</li>
+  <li>DialogButton</li>
+</ul>
+
+<h1>Concepts Used</h1>
+<ul>
+  <li>Object Oriented Programming</li>
+  <li>Class</li>
+  <li>Property</li>
+  <li>Constructor</li>
+  <li>Method</li>
+  <li>Abstraction</li>
+  <li>Inheritance</li>
+  <li>Encapsulation</li>
+  <li>Polymorphism</li>
+  <li>List</li>
+  <li>Conditional</li>
+ 
+</ul>
+
+
+
+
+
+
 
